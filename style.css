@@ -1,0 +1,74 @@
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.nav-item:hover{
+   text-decoration: underline;
+}
+.navbar-brand:hover{
+    background-color: lavender;
+}
+
+.body{
+    color: white;
+    background-color:black;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+ .container{
+    border:2px solid white;
+ }
+ .main-foot{
+    border: black solid 2px;
+    background-color: whitesmoke;
+ }
+ .foot-1{
+   display: inline-block;
+    /* border: 2px solid black; */
+    width: 40%;
+    margin: 2%;
+    margin-left: 10%;
+    padding: 2%;
+ }
+ .foot-2{
+    display: inline-block;
+    /* border: 2px solid black; */
+    padding: 2%;
+    margin-bottom: 2%;
+ }
+ .foot-item{
+    color: black; 
+    text-decoration: none;
+ }
+ .foot-item:hover{
+    text-decoration: underline;
+ }
+.indian{
+    display: block;
+   
+}
+.btn{
+    /* float: right;
+    */
+    /* margin-left: 2%; */
+}
+.italian{
+    display: block;
+  
+}
+.socials:hover{
+    border: 5px solid cadetblue;
+}
+
+
